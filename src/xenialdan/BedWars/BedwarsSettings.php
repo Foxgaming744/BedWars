@@ -20,7 +20,7 @@ class BedwarsSettings extends DefaultSettings
     public $placeBlockIds = [BlockIds::SANDSTONE, BlockIds::END_STONE, BlockIds::CHEST, BlockIds::ENDER_CHEST, BlockIds::BED_BLOCK];
     public $noBed = true;
     public $startNoWalk = false;
-    public $bronze = [];
+    public $irone = [];
     public $silver = [];
     public $gold = [];
     public $noDropItem = false;
